@@ -1,0 +1,35 @@
+Charles Joseph "Buddy" Bolden (September 6, 1877 – November 4, 1931) was an American cornetist who was regarded by contemporaries as a key figure in the development of a New Orleans style of ragtime music, or "jass", which later came to be known as jazz.
+
+Childhood
+When he was born, Bolden's father, Westmore Bolden, was working as a driver for William Walker, the former master of Buddy's grandfather Gustavus Bolden, who died in 1866. His mother, Alice (née Harris), was 18 when she married Westmore on August 14, 1873. Westmore Bolden was around 25 at the time, as records show that he was 19 in August 1866. When Buddy was six years old, his father died, after which the boy lived with his mother and other family members.[1] In records of the period the family name is variously spelled Bolen, Bolding, Boldan, and Bolden, thus complicating research.[2] Buddy likely attended Fisk School in New Orleans, though evidence is circumstantial, as early records of this and other local schools are missing.[3]
+
+Musical career
+Bolden was known as "King" Bolden[4] (see Jazz royalty), and his band was at its peak in New Orleans from around 1900 to 1907. He was known for his loud sound and improvisational skills, and his style had an impact on younger musicians. Bolden's trombonist Willie Cornish, among others, recalled making phonograph cylinder recordings with the Bolden band, but none are known to survive.[5]
+
+
+The Bolden band around 1905 (top: Jimmy Johnson, bass; Bolden, cornet; Willy Cornish, valve trombone; Willy Warner, clarinet; bottom: Brock Mumford, guitar; Frank Lewis, clarinet)
+Many early jazz musicians credited Bolden and his bandmates with having originated what came to be known as jazz, though the term was not in common musical use until after Bolden was musically active. At least one writer has labeled Bolden the father of jazz.[6] He is credited with creating a looser, more improvised version of ragtime and adding blues; Bolden's band was said to be the first to have brass instruments play the blues. He was also said to have adapted ideas from gospel music heard in uptown African-American Baptist churches.[7]
+
+Instead of imitating other cornetists, Bolden played the music he heard "by ear" and adapted it to his horn. In doing so, he created an exciting and novel fusion of ragtime, black sacred music, marching-band music, and rural blues. He rearranged the typical New Orleans dance band of the time to better accommodate the blues: string instruments became the rhythm section, and the front-line instruments were clarinets, trombones, and Bolden's cornet. Bolden was known for his powerful, loud, "wide open" playing style.[8] Joe "King" Oliver, Freddie Keppard, Bunk Johnson, and other early New Orleans jazz musicians were directly inspired by his playing.[9]
+
+One of the best known Bolden numbers is "Funky Butt" (later known as "Buddy Bolden's Blues"), which represents one of the earliest references to the concept of funk in popular music. Bolden's "Funky Butt" was, as Danny Barker once put it, a reference to the olfactory effect of an auditorium packed full of sweaty people "dancing close together and belly rubbing."[10]
+
+Bolden is also credited with the invention of the "Big Four,"[11] a key rhythmic innovation on the marching band beat, which gave early jazz more room for individual improvisation. As Wynton Marsalis explains,[12] the big four (below)[13] was the first syncopated bass drum pattern to deviate from the standard on-the-beat march.[14] The second half of the Big Four is the pattern commonly known as the hambone rhythm developed from sub-Saharan African music traditions.
+
+
+    \new Staff <<
+       \relative c' {
+           \clef percussion
+           \time 4/4
+           \repeat volta 2 { g8 \xNote a' g, \xNote a' g, \xNote a'16. g,32 g8 <g \xNote a'> }
+           \repeat volta 2 { r8 \xNote a'\noBeam g, \xNote a' g, \xNote a'16. g,32 g8 <g \xNote a'> }
+       }
+   >>
+Physical and mental decline
+Bolden had an episode of acute alcoholic psychosis in 1907 at age 30. With the full diagnosis of dementia praecox (today called schizophrenia), he was admitted to the Louisiana State Insane Asylum at Jackson, a mental institution, where he spent the rest of his life.[8][10] Recent research has suggested that Bolden may in fact have had pellagra, a vitamin deficiency common among poor and black groups in the population, which in 1907 swept through the southern United States.[15] His death on November 4, 1931, was caused by cerebral arteriosclerosis according to the death certificate.[16]
+
+Personal life
+In 1895–1896, Bolden began a relationship with Harriet "Hattie" Oliver, a woman several years his senior who lived in the same neighborhood. Their relationship was brief, and though they never married, she gave birth to their son, Charles Joseph Bolden Jr., on May 2, 1897.[17]
+
+Further life and legend
+While there is substantial first-hand oral history about Bolden, facts about his life continue to be lost amidst colorful myth. Stories about his being a barber by trade or that he published a scandal sheet called The Cricket have been repeated in print despite being debunked decades earlier.
