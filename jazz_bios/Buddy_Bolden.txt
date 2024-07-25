@@ -16,15 +16,6 @@ One of the best known Bolden numbers is "Funky Butt" (later known as "Buddy Bold
 
 Bolden is also credited with the invention of the "Big Four,"[11] a key rhythmic innovation on the marching band beat, which gave early jazz more room for individual improvisation. As Wynton Marsalis explains,[12] the big four (below)[13] was the first syncopated bass drum pattern to deviate from the standard on-the-beat march.[14] The second half of the Big Four is the pattern commonly known as the hambone rhythm developed from sub-Saharan African music traditions.
 
-
-    \new Staff <<
-       \relative c' {
-           \clef percussion
-           \time 4/4
-           \repeat volta 2 { g8 \xNote a' g, \xNote a' g, \xNote a'16. g,32 g8 <g \xNote a'> }
-           \repeat volta 2 { r8 \xNote a'\noBeam g, \xNote a' g, \xNote a'16. g,32 g8 <g \xNote a'> }
-       }
-   >>
 Physical and mental decline
 Bolden had an episode of acute alcoholic psychosis in 1907 at age 30. With the full diagnosis of dementia praecox (today called schizophrenia), he was admitted to the Louisiana State Insane Asylum at Jackson, a mental institution, where he spent the rest of his life.[8][10] Recent research has suggested that Bolden may in fact have had pellagra, a vitamin deficiency common among poor and black groups in the population, which in 1907 swept through the southern United States.[15] His death on November 4, 1931, was caused by cerebral arteriosclerosis according to the death certificate.[16]
 
